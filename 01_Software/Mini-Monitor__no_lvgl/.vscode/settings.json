@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "oled.h": "c",
+        "spi.h": "c",
+        "gpio.h": "c",
+        "bmp.h": "c",
+        "cstdint": "cpp",
+        "stm32f4xx_hal.h": "c",
+        "i2c.h": "c",
+        "ina226.h": "c",
+        "myiic.h": "c"
+    }
+}
