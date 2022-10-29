@@ -2,6 +2,7 @@
 
 > 视频介绍：[自制一个迷你电流表](https://www.bilibili.com/video/BV1RD4y1r7Lr/?spm_id_from=333.999.0.0&vd_source=f48d85f7ac2dd03394a7e2311b7bbc09)
 <br>
+![image](https://github.com/Chen-Jihang/Mini-Monitor/blob/master/04_Images/rendergraph/GEN_9.JPG)
 
 ## 功能特性
 * 电流量程：-655.36mA ~ +655.36mA  
